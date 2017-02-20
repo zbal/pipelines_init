@@ -1,0 +1,5 @@
+---
+name: Test import pipelines
+
+actions:
+  - echo "toto"
